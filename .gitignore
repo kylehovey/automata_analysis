@@ -2,3 +2,4 @@ __pycache__
 rules
 *.swp
 *.npz
+.ipynb_checkpoints
